@@ -2,7 +2,6 @@
 
 <p align="center">
 This is the API Server that the web app "Proffy" and "Proffy Mobile" uses. <br>
-
 This project was developed during the NLW - Next Level Week, offered by Rocketseat.
 </p>
 <br>
