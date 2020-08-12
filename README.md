@@ -35,9 +35,7 @@ Created using Typescript and SQLite.
 
 ##  Features
 
-- [x] Responsive layout
-- [x] Data registration (teachers)
-- [x] Filters in the database (registered teachers)
+- [x] API routes for create and select inputs
 
 ### Requirements
 
